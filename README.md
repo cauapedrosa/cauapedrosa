@@ -1,5 +1,5 @@
 ### Hi there 👋
-Check out <http://cauapedrosa.github.io> 👈
+Check out <https://cauapedrosa.github.io/portfolio/> 👈
 <!--
 **cauapedrosa/cauapedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
