@@ -3,6 +3,13 @@
 Currently working on TecBusca, a job and internship platform based on webscraping and AI classifiers, with the intent to facilitate the jobhunting process for FATEC alumni.
 ### Check it out 👉 <https://tecbusca.herokuapp.com/> 👈
 
+
+
+
+Wanna see the code for the scrapers and classifiers? You'll find it at <https://github.com/cauapedrosa/TG>
+
+#
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
