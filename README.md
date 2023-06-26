@@ -1,10 +1,6 @@
 # Hey there! 👋
 
 Check out my Graduation Project: TecBusca, a platform for job and intership seekers that is based on webscraping and AI classifiers, with the intent to facilitate the jobhunting process for FATEC alumni.
-### 👉 <https://tecbusca.herokuapp.com/> 👈
-
-
-
 
 Wanna see the code for the scrapers and classifiers? You'll find it at <https://github.com/cauapedrosa/TG>
 
